@@ -1,0 +1,5 @@
+package com.rose.Company.RoseCompany.exception;
+
+public class ResourceNotFoundException {
+
+}
